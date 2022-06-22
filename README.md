@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2022 Tabor Buxton.
+2022 Tabor Buxton. All rights reserved.
